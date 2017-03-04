@@ -36,4 +36,4 @@ let query = connection.query('select * from actors', (err, result) => {
         return console.log(err);
     }
     console.log(JSON.stringify(result, undefined, 2));
-})
+});
