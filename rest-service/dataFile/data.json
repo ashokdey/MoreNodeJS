@@ -1,5 +1,0 @@
-[
-    { "id" : 1, "name" : "widget 1", "color" : "blue", "size" : "small", "quantity" : 3},
-    { "id" : 2, "name" : "widget 2", "color": "red", "size" : "large", "quantity" : 5},
-    { "id" : 3, "name" : "widget 3", "color" : "violet", "size" : "medium", "quantity" : 3}
-]
