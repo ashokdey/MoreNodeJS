@@ -1,0 +1,16 @@
+{
+  "name": "login-reg-mysql",
+  "version": "1.0.0",
+  "description": "simple login reg system using node and promise-mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok Dey",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "promise-mysql": "^3.0.1"
+  }
+}
